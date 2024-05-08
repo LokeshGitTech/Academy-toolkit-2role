@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "teacher1",
+      "email": "teacher1@example.com",
+      "password": "teacher1password",
+      "role": "teacher",
+      "isAuthenticated": false
+    },
+    {
+      "id": "2",
+      "username": "student1",
+      "email": "student1@example.com",
+      "password": "student1password",
+      "role": "student",
+      "isAuthenticated": false
+    },
+    {
+      "id": "Fri May 03 2024 17:23:26 GMT+0530 (India Standard Time)",
+      "name": "admin@example.com",
+      "email": "lokesh@test.com",
+      "password": "Admin123",
+      "role": "Teacher"
+    },
+    {
+      "id": "Fri May 03 2024 17:31:20 GMT+0530 (India Standard Time)",
+      "name": "admin@example.com",
+      "email": "lokesh@test.com",
+      "password": "Admin123",
+      "role": "Teacher"
+    },
+    {
+      "id": "Fri May 03 2024 17:35:45 GMT+0530 (India Standard Time)",
+      "name": "admin@example.com",
+      "email": "lokesh@test.com",
+      "password": "Admin123",
+      "role": "Teacher"
+    },
+    {
+      "id": "Fri May 03 2024 17:36:36 GMT+0530 (India Standard Time)",
+      "name": "admin@example.com",
+      "email": "lokesh@test.com",
+      "password": "Admin123",
+      "role": "Teacher"
+    },
+    {
+      "id": "Fri May 03 2024 17:42:00 GMT+0530 (India Standard Time)",
+      "name": "admin@example.com",
+      "email": "lokesh@test.com",
+      "password": "Admin123",
+      "role": "Teacher"
+    },
+    {
+      "id": "AxF-CIVkuQb_z23lFltaF",
+      "name": "admin@example.com",
+      "email": "lokesh@test.com",
+      "password": "Admin123",
+      "role": "Teacher"
+    },
+    {
+      "id": "7aFN2xZ0RuoTQhpTnghLs",
+      "name": "admin@example.com",
+      "email": "lokesh@test.com",
+      "password": "Admin123",
+      "role": "Teacher"
+    }
+  ],
+  "courses": [
+    {
+      "title": "React js",
+      "description": "How to learn rect js within 10 min",
+      "image": "heardpng.png"
+    }
+  ]
+}
